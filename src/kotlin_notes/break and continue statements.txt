@@ -1,0 +1,5 @@
+* break and continue operator allow us to define jumps in our code.
+* They both are used inside loops.
+* The BREAK operator allow us to jump to the end of the loop and skip rest of the code.
+* The CONTINUE operator allow us to skip to the next iteration.
+* We should use break and continue operator sparingly as they can make our code quite confusing as they include jumps, and jumps can become hard to follow.  

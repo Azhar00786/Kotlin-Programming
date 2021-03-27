@@ -1,0 +1,6 @@
+* There can be two kinds of variable in kotlin 
+  1> var
+  2> val
+
+* Variables created using val are immutable, meaning that they cannot be reassigned a different value after their first assignment.
+* Variables created using var are mutable, meaning there value can be changed after first assignment.

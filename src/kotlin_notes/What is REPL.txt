@@ -1,0 +1,5 @@
+What is REPL?
+-> *REPL (Read-Eval-Print-Loop) is a tool for running Kotlin code interactively. 
+   *REPL lets you evaluate expressions and code chunks without creating projects or even functions if you don't need them.
+   * To access REPL goto tools -> Kotlin -> Kotlin REPL
+   

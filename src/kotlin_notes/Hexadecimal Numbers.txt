@@ -1,0 +1,1 @@
+* Decimal numbers(0..9) have 10 as the basis,binary number(1&0) have 2 as the basis and Hexadecimal number(0 - 9,A,B,C,D,E,F) have 16 as the basis.

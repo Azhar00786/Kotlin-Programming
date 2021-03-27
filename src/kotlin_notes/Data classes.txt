@@ -1,0 +1,8 @@
+Data classes is used in Kotlin to store data.
+
+Advantages of using Kotlin
+	* Defining a useful string representation of the class using toString().
+	* Implementing a useful equals() method that compares all the properties.
+	* Implementing a copy() method that allows us to easily make copies of the data object. 
+	* Allowing to use the data objects wih data types that use hashing, such as HashSet.
+	* Allowing us to decompose data objects into their properties.

@@ -1,0 +1,3 @@
+* Packages are the basic way to categorize your source files and therefore your classes in logical units.
+* Package name should be all lower case and should be as concise as possible.
+* Packages can be nested.

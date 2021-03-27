@@ -1,0 +1,7 @@
+final keyword: 
+	* Overriden keyword are open by default and we could stop them by using final keyword
+	* overriden final func_name(){}
+	
+super keyword: 
+	* Inorder to print the data of the parent class method before or after the overriden methods data of the child class. we must use super keyword.
+	* If there is ambuiguity in child class overriden method, then we can use: super<class_name>.methodName for using one of the parent class method data in child class.

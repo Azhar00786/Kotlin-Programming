@@ -1,0 +1,5 @@
+**if vs when : When to use them**
+
+* if statements are commonly the common choice.Because in if statements we could have arbitary conditions.
+* When statements can be replace by if statements.
+* if statements are more powerful compare to when statements.

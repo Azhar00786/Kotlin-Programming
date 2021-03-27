@@ -1,0 +1,13 @@
+What is Kotlin?
+-> *Kotlin is a Java based language. 
+   *It also runs on JVM. 
+   *It is 100% interoperable with JAVA.
+   *Kotlin is mainly used for writing Android application and for writing Web Applications.
+   *Kotlin is been developed by JetBrains. 
+   *The main advantage of Kotlin is that we can use whole Java library in our Kotlin code.
+   
+Why we use Kotlin?
+-> * It is Concise. It drastically removes the amount of boiler plate codes you need to write.
+   * It is safe. It avoids entirely Null pointer exception and also provides with Null safety.
+   * It is Versatile. Other than writing Android applications, it is also use to write web applications.
+   * It is interoperable. Kotlin can use existing frameworks and libraries of the JVM with 100% java interoperability.

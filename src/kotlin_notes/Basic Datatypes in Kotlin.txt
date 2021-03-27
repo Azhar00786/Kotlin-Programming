@@ -1,0 +1,71 @@
+* String Datatype
+
+Example: Used REPL for below code
+	
+	val str = "String"
+	str+" in Kotlin"
+	res: kotlin.String = String in Kotlin
+	
+* Boolean Datatype
+
+Example: Used REPL for below code
+		
+		3<4
+		res: kotlin.Boolean = true
+
+		4>=4
+		res: kotlin.Boolean = true
+
+		4>4
+		res: kotlin.Boolean = false
+
+		val myBool = 3<1
+		myBool
+		res: kotlin.Boolean = false
+
+*Byte datatype
+	->Smallest of these datatype for storing numbers is byte.
+	->Range of 1 byte is -128 to 127.
+	->When you will try to store, 
+		val b=4
+	  it will store the above variable in integer form.
+	-> To store the above variable in byte, we have to explicitly define it 
+		val b: Byte = 4
+		
+*Short datatype
+	->Range of 1 short datatype is -32768 to 32767
+	
+
+*Integer datatype
+	->Range of 1 integer datatype is -2 billion something to 2 billion something
+	->By default if you don't define the datatype of any variable, it will be in integer form.
+	
+
+*Long datatype
+	-> Range of Long datatype is bigger than integer.
+	-> You can define Long variables values by 
+			val v = 3L
+		it will set the value of variable as long
+
+*Floating Datatype
+	-> In order to give float values to variables we use.
+			val v: Float = 2.267f
+			
+*Double Datatype
+	->For the below number if you explicitly don't define datatype, it's default value will be Double.
+	
+*Char datatype
+	-> When we define char we have to use single quotes.
+		val c:Char = 'Q'
+		
+***How to switch from one datatype to other***
+
+	->For switching we have ready made functions.
+		var f: Float =3.4f
+		var d:Double = 0.0
+		
+		d = f.toDouble()		<-- the function toDouble() will convert from var f value to double.
+		
+	-> There are many other functions like the above which can be used such as toLong(), toShort(), toInt().
+		
+		

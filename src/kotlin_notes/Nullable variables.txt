@@ -1,0 +1,18 @@
+* Null basically represents missing reference
+* Inorder to create a null variable in Kotlin we have to use '?'
+		var str:String?  = null
+* if we try to use length method on above example like str.length we will get an error.
+* In order to use length method on str we have to do a safe call 
+		str?.length
+ this will give us the result.
+* We can assure Kotlin that the processed value will not be null, for that
+		str!!.length
+* If we put str = 0 and then use str!!.length then Compiler will throw NullPointerException.
+
+
+
+
+
+
+
+ 

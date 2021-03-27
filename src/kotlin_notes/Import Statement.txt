@@ -1,0 +1,2 @@
+* You can import a class from another package using import.
+* Syntax import java.util.*  <-- star mean to import all the classes available in java.util package

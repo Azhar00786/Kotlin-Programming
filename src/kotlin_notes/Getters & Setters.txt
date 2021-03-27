@@ -1,0 +1,12 @@
+* When we write var data: Int = 0 in Koltin, we create a property. 
+* And Getters and Setters are called in the background when we try to change the value of the property. We can set the value of data by className.data = anyIntValue & get the value of the data by className.data.
+
+* 	class Animal{
+		var age: Int = 0
+			get() = field		//field is implicitly define variable that we can use only in getter and setter, It is use to access the actual value of the age property.
+			set(value){			//value is the new value that is given to the property.
+				if(value >= 0){
+					field = value		
+				}
+			}
+	}
